@@ -28,12 +28,12 @@ Input:
 ATGcctaG
 
 Output:
-Sequence to study: ATGCCTAG
-Nucleotide count: 8
-GC percentage: 50.00%
-Complementary strand: TACGGATC
-Reverse complementary: CTAGGCAT
-Amino acid sequence: Met Pro
+- Sequence to study: ATGCCTAG
+- Nucleotide count: 8
+- GC percentage: 50.00%
+- Complementary strand: TACGGATC
+- Reverse complementary: CTAGGCAT
+- Amino acid sequence: Met Pro
 
 ## Programming concepts applied
 This project helped reinforce several core Python concepts:
